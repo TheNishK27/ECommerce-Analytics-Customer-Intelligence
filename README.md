@@ -1,5 +1,10 @@
 # E-Commerce Analytics & Customer Intelligence
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
+
 An end-to-end e-commerce analytics project that transforms raw transactional data into actionable business insights using **PostgreSQL, SQL, Python, Machine Learning, and Power BI**.
 
 ---
