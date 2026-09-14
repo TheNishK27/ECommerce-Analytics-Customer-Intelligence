@@ -172,19 +172,19 @@ The dashboard contains four analytical pages.
 
 ### Executive Overview
 
-![Executive Overview](assets/executive_overview.png)
+![Executive Overview](assets/executive_overview.jpg)
 
 ### Sales & Product Analytics
 
-![Sales & Product Analytics](assets/sales_product.png)
+![Sales & Product Analytics](assets/sales_product.jpg)
 
 ### Customer Intelligence
 
-![Customer Intelligence](assets/customer_intelligence.png)
+![Customer Intelligence](assets/customer_intelligence.jpg)
 
 ### Delivery & Reviews
 
-![Delivery & Reviews](assets/delivery_reviews.png)
+![Delivery & Reviews](assets/delivery_reviews.jpg)
 
 ## Page 1: Executive Overview
 
