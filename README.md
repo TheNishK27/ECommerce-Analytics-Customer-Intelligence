@@ -309,12 +309,4 @@ Potential improvements for this project:
 
 # Author
 
-**Deepak Kumar**
-
-Computer Science Engineering Student
-
-Interested in:
-- Data Analytics
-- Machine Learning
-- Business Intelligence
-- Data Engineering
+**Nishant Kumar**
